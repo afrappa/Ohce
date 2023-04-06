@@ -1,0 +1,12 @@
+C:\git\Ohce\Ohce\bin\Debug\net7.0\Ohce.deps.json
+C:\git\Ohce\Ohce\bin\Debug\net7.0\Ohce.dll
+C:\git\Ohce\Ohce\bin\Debug\net7.0\Ohce.pdb
+C:\git\Ohce\Ohce\obj\Debug\net7.0\Ohce.csproj.AssemblyReference.cache
+C:\git\Ohce\Ohce\obj\Debug\net7.0\Ohce.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Ohce\Ohce\obj\Debug\net7.0\Ohce.AssemblyInfoInputs.cache
+C:\git\Ohce\Ohce\obj\Debug\net7.0\Ohce.AssemblyInfo.cs
+C:\git\Ohce\Ohce\obj\Debug\net7.0\Ohce.csproj.CoreCompileInputs.cache
+C:\git\Ohce\Ohce\obj\Debug\net7.0\Ohce.dll
+C:\git\Ohce\Ohce\obj\Debug\net7.0\refint\Ohce.dll
+C:\git\Ohce\Ohce\obj\Debug\net7.0\Ohce.pdb
+C:\git\Ohce\Ohce\obj\Debug\net7.0\ref\Ohce.dll

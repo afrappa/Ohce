@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ohce.Console/1.0.0": {
+        "dependencies": {
+          "Ohce": "1.0.0"
+        },
+        "runtime": {
+          "Ohce.Console.dll": {}
+        }
+      },
+      "Ohce/1.0.0": {
+        "runtime": {
+          "Ohce.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ohce.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ohce/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

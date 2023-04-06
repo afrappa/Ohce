@@ -1,0 +1,12 @@
+C:\git\Oche\Oche\bin\Debug\net7.0\Oche.deps.json
+C:\git\Oche\Oche\bin\Debug\net7.0\Oche.dll
+C:\git\Oche\Oche\bin\Debug\net7.0\Oche.pdb
+C:\git\Oche\Oche\obj\Debug\net7.0\Oche.csproj.AssemblyReference.cache
+C:\git\Oche\Oche\obj\Debug\net7.0\Oche.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Oche\Oche\obj\Debug\net7.0\Oche.AssemblyInfoInputs.cache
+C:\git\Oche\Oche\obj\Debug\net7.0\Oche.AssemblyInfo.cs
+C:\git\Oche\Oche\obj\Debug\net7.0\Oche.csproj.CoreCompileInputs.cache
+C:\git\Oche\Oche\obj\Debug\net7.0\Oche.dll
+C:\git\Oche\Oche\obj\Debug\net7.0\refint\Oche.dll
+C:\git\Oche\Oche\obj\Debug\net7.0\Oche.pdb
+C:\git\Oche\Oche\obj\Debug\net7.0\ref\Oche.dll
